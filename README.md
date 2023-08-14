@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### :hammer_and_wrench: Languages and Tools :
-<div style="display: flex;">
+<div>
     <div>
       <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" title="Python" width="40" height="40">
       <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="Django" title="Django" width="40" height="40">
@@ -34,15 +34,15 @@ Here are some ideas to get you started:
       <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" title="MongoDB" width="40" height="40">
     </div>
     <div>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" alt="Azure" title="Azure" width="40" height="40">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" title="AWS" width="40" height="40">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-plain-wordmark.svg" alt="GCP" title="GCP" width="40" height="40">
-    </div>
-    <div>
       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" title="Git" width="40" height="40">
       <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="GitHub" title="GitHub" width="40" height="40">
       <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" alt="GitLab" title="GitLab" width="40" height="40">
       <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" alt="Bitbucket" title="Bitbucket" width="40" height="40">
+    </div>
+    <div>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" alt="Azure" title="Azure" width="40" height="40">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" title="AWS" width="40" height="40">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-plain-wordmark.svg" alt="GCP" title="GCP" width="40" height="40">
     </div>
     <div>
       <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" title="docker" width="40" height="40">
