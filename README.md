@@ -1,9 +1,9 @@
 ### :man_technologist: About Me :
-- :telescope: I’m working as a Software Engineer.
+- :telescope: Working as a Software Enginee, focused on Python Technologies
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Web services engineer and recently exploring Javascript and Frontent technologies.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/solarte-0519/)
+- :mailbox:Reach me out on LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/solarte-0519/)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -17,7 +17,6 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" alt="Selenium" title="" width="40" height="40">&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" alt="Mysql" title="Mysql" width="40" height="40">&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="Postgres" title="Postgres" width="40" height="40">&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/appcelerator/appcelerator-original-wordmark.svg" alt="Oracle" title="Oracle" width="40" height="40">&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" title="MongoDB" width="40" height="40">&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" title="Git" width="40" height="40">&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="GitHub" title="GitHub" width="40" height="40">&nbsp;
