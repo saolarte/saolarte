@@ -1,5 +1,5 @@
 ### :man_technologist: About Me :
-- :telescope: Working as a Software Enginee, focused on Python Technologies
+- :telescope: Working as a Software Engineer, focused on Python Technologies
 
 - :seedling: Web services engineer and recently exploring Javascript and Frontent technologies.
 
